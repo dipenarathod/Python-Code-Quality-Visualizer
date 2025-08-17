@@ -47,9 +47,11 @@ class HalsteadDataManager:
         # Check if it's been at least one minute since the last refresh
         if current_time - self.last_refresh_time >= 60:  # 60 seconds = 1 minute
             repo_safe = repo_name.replace('/', '_')
-            main_path = Path(f"./metrics/{repo_safe}/halstead_metrics.json")
-            pr_path = Path(f"./pull_request_metrics/{repo_safe}/Halstead_PRs.json")
+            project_root = Path(__file__).parent.parent
+            main_path = project_root / f"metrics/{repo_safe}/Halstead_Metrics.json"
             
+            pr_path = project_root / f"pull_request_metrics/{repo_safe}/Halstead_PRs.json"
+
             # Check if files exist and have been modified since last check
             files_changed = False
             
@@ -85,8 +87,10 @@ class HalsteadDataManager:
         
         self.repo_name = repo_name
         repo_safe = repo_name.replace('/', '_')
-        main_path = Path(f"./metrics/{repo_safe}/halstead_metrics.json")
-        pr_path = Path(f"./pull_request_metrics/{repo_safe}/Halstead_PRs.json")
+        project_root = Path(__file__).parent.parent
+        main_path = project_root / f"metrics/{repo_safe}/Halstead_Metrics.json"
+            
+        pr_path = project_root / f"pull_request_metrics/{repo_safe}/Halstead_PRs.json"
 
         # Reset data containers
         self.main_data = {}

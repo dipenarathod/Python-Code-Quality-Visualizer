@@ -45,8 +45,9 @@ class TraditionalDataManager:
 
         if current_time - self.last_refresh_time >= 60:
             repo_safe = repo_name.replace('/', '_')
-            main_path = Path(f"./metrics/{repo_safe}/traditional_metrics.json")
-            pr_path = Path(f"./pull_request_metrics/{repo_safe}/Traditional_PRs.json")
+            project_root = Path(__file__).parent.parent
+            main_path = project_root / f"metrics/{repo_safe}/traditional_metrics.json"
+            pr_path = project_root / f"pull_request_metrics/{repo_safe}/Traditional_PRs.json"
 
             files_changed = False
             if main_path.exists():
@@ -66,8 +67,9 @@ class TraditionalDataManager:
 
         self.repo_name = repo_name
         repo_safe = repo_name.replace('/', '_')
-        main_path = Path(f"./metrics/{repo_safe}/traditional_metrics.json")
-        pr_path = Path(f"./pull_request_metrics/{repo_safe}/Traditional_PRs.json")
+        project_root = Path(__file__).parent.parent
+        main_path = project_root / f"metrics/{repo_safe}/traditional_metrics.json"
+        pr_path = project_root / f"pull_request_metrics/{repo_safe}/Traditional_PRs.json"
 
         self.main_data = {}
         self.main_data_by_sha = {}
