@@ -21,17 +21,17 @@ app.layout = html.Div([
     ),
     html.Div(id="details-div"),
     
-    dcc.Store(id="repo-store", storage_type='session'),  
-    dcc.Store(id="token-store", storage_type='session'),  
-    dcc.Store(id="actual-repo", storage_type='session'),
-    dcc.Store(id="actual-git-obj", storage_type='session'),
-    dcc.Store(id="main-metrics-dict", storage_type='session'),
-    dcc.Store(id="main-metrics-df", storage_type='session'),
-    dcc.Store(id="main-file-names", storage_type='session'),
-    dcc.Store(id="pull-req-metrics-dict", storage_type='session'),
-    dcc.Store(id="pull-req-metrics-df", storage_type='session'),
-    dcc.Store(id="pull-req-file-names", storage_type='session'),
-    dcc.Store(id="nav-bar-store", storage_type='session'),
+    dcc.Store(id="repo-store", storage_type='session'),  # Changed to session storage
+    dcc.Store(id="token-store", storage_type='session'),  # Changed to session storage
+    dcc.Store(id="actual-repo"),
+    dcc.Store(id="actual-git-obj"),
+    dcc.Store(id="main-metrics-dict"),
+    dcc.Store(id="main-metrics-df"),
+    dcc.Store(id="main-file-names"),
+    dcc.Store(id="pull-req-metrics-dict"),
+    dcc.Store(id="pull-req-metrics-df"),
+    dcc.Store(id="pull-req-file-names"),
+    dcc.Store(id="nav-bar-store"),
     dash.page_container
 ])
 
