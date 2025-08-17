@@ -1,0 +1,13 @@
+{
+    "access_token": "GitHub Personal Access Token",
+    "repositories": [
+        "dipenarathod/Metrics-Research_Python-Code-Files"
+    ],
+    "interval_hours": 0.17,
+    "output_dir": "metrics",
+    "branches": [
+        "main"
+    ],
+    "save_online": true,
+    "last_run": "2025-06-02T13:11:36.312377"
+}

@@ -1,0 +1,154 @@
+2025-05-18 16:23:17,678 - PRMetricsServer - INFO - No previous PR processing history found.
+2025-05-18 16:23:17,678 - PRMetricsServer - INFO - Starting PR metrics server with 6 hour interval
+2025-05-18 16:23:17,678 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-18 16:23:17,680 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-18 16:24:41,622 - PRMetricsServer - ERROR - Error processing repository dipenarathod/desktop-tutorial: 'AllPullRequestMetrics' object has no attribute 'get_processed_pr_numbers'
+2025-05-18 16:24:41,622 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-18 16:24:41,622 - PRMetricsServer - INFO - Completed all repositories in 83.94 seconds
+2025-05-18 17:02:15,788 - PRMetricsServer - INFO - No previous PR processing history found.
+2025-05-18 17:02:15,788 - PRMetricsServer - INFO - Starting PR metrics server with 6 hour interval
+2025-05-18 17:02:15,789 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-18 17:02:15,789 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-18 17:04:01,829 - PRMetricsServer - INFO - Saved processed PRs to processed_prs.json
+2025-05-18 17:04:01,829 - PRMetricsServer - INFO - Completed PR metrics calculation for dipenarathod/desktop-tutorial - processed 24 new PRs
+2025-05-18 17:04:01,830 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-18 17:04:01,830 - PRMetricsServer - INFO - Completed all repositories in 106.04 seconds
+2025-05-20 13:09:57,894 - PRMetricsServer - INFO - Loaded previously processed PRs from processed_prs.json
+2025-05-20 13:09:57,895 - PRMetricsServer - INFO - Starting PR metrics server with 0.1 hour interval
+2025-05-20 13:09:57,895 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-20 13:09:57,896 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-20 13:09:59,094 - PRMetricsServer - INFO - Saved processed PRs to processed_prs.json
+2025-05-20 13:09:59,094 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/desktop-tutorial
+2025-05-20 13:09:59,095 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-20 13:09:59,096 - PRMetricsServer - INFO - Completed all repositories in 1.20 seconds
+2025-05-21 21:40:14,215 - PRMetricsServer - INFO - Loaded previously processed PRs from processed_prs.json
+2025-05-21 21:40:14,229 - PRMetricsServer - INFO - Starting PR metrics server with 0.17 hour interval
+2025-05-21 21:40:14,229 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-21 21:40:14,229 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-21 21:40:15,365 - PRMetricsServer - INFO - Saved processed PRs to processed_prs.json
+2025-05-21 21:40:15,365 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/desktop-tutorial
+2025-05-21 21:40:15,366 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-21 21:40:15,367 - PRMetricsServer - INFO - Completed all repositories in 1.14 seconds
+2025-05-21 21:51:15,373 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-21 21:51:15,374 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-21 21:51:16,466 - PRMetricsServer - INFO - Saved processed PRs to processed_prs.json
+2025-05-21 21:51:16,466 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/desktop-tutorial
+2025-05-21 21:51:16,467 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-21 21:51:16,467 - PRMetricsServer - INFO - Completed all repositories in 1.09 seconds
+2025-05-22 16:54:22,614 - PRMetricsServer - INFO - Loaded previously processed PRs from processed_prs.json
+2025-05-22 16:54:22,630 - PRMetricsServer - INFO - Starting PR metrics server with 0.17 hour interval
+2025-05-22 16:54:22,630 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-22 16:54:22,630 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-22 16:54:23,740 - PRMetricsServer - INFO - Saved processed PRs to processed_prs.json
+2025-05-22 16:54:23,740 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/desktop-tutorial
+2025-05-22 16:54:23,740 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-22 16:54:23,741 - PRMetricsServer - INFO - Completed all repositories in 1.11 seconds
+2025-05-23 19:42:22,957 - PRMetricsServer - INFO - Loaded previously processed PRs from processed_prs.json
+2025-05-23 19:42:22,961 - PRMetricsServer - INFO - Starting PR metrics server with 0.17 hour interval
+2025-05-23 19:42:22,961 - PRMetricsServer - INFO - Processing all open PRs for configured repositories
+2025-05-23 19:42:22,961 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-23 19:42:22,961 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-23 19:42:23,388 - PRMetricsServer - INFO - Processing all open PRs for dipenarathod/desktop-tutorial (skipping 24 already processed)
+2025-05-23 19:42:24,074 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/desktop-tutorial
+2025-05-23 19:42:24,074 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-23 19:42:24,074 - PRMetricsServer - INFO - Completed all repositories in 1.11 seconds
+2025-05-23 19:45:24,422 - PRMetricsServer - INFO - No previous PR processing history found.
+2025-05-23 19:45:24,422 - PRMetricsServer - INFO - Starting PR metrics server with 0.17 hour interval
+2025-05-23 19:45:24,422 - PRMetricsServer - INFO - Processing all open PRs for configured repositories
+2025-05-23 19:45:24,422 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-23 19:45:24,423 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-23 19:45:24,843 - PRMetricsServer - INFO - Processing all open PRs for dipenarathod/desktop-tutorial (skipping 0 already processed)
+2025-05-23 19:46:56,929 - PRMetricsServer - INFO - Saved metrics for 18 PRs from dipenarathod/desktop-tutorial
+2025-05-23 19:46:56,931 - PRMetricsServer - INFO - Saved processed PRs to processed_prs.json
+2025-05-23 19:46:56,931 - PRMetricsServer - INFO - Added 18 new PRs to processed list for dipenarathod/desktop-tutorial
+2025-05-23 19:46:56,932 - PRMetricsServer - INFO - Added 18 new PRs to processed list for dipenarathod/desktop-tutorial
+2025-05-23 19:46:56,932 - PRMetricsServer - INFO - Completed PR metrics calculation for dipenarathod/desktop-tutorial - processed 18 new PRs
+2025-05-23 19:46:56,946 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-23 19:46:56,947 - PRMetricsServer - INFO - Completed all repositories in 92.52 seconds
+2025-05-24 11:40:49,296 - PRMetricsServer - INFO - Loaded previously processed PRs from processed_prs.json
+2025-05-24 11:40:49,314 - PRMetricsServer - INFO - Starting PR metrics server with 0.17 hour interval
+2025-05-24 11:40:49,314 - PRMetricsServer - INFO - Processing all open PRs for configured repositories
+2025-05-24 11:40:49,314 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-24 11:40:49,314 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-24 11:40:49,760 - PRMetricsServer - INFO - Processing all open PRs for dipenarathod/desktop-tutorial (skipping 18 already processed)
+2025-05-24 11:40:50,408 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/desktop-tutorial
+2025-05-24 11:40:50,408 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-24 11:40:50,409 - PRMetricsServer - INFO - Completed all repositories in 1.09 seconds
+2025-05-24 11:51:50,412 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-24 11:51:50,414 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-24 11:51:50,830 - PRMetricsServer - INFO - Processing all open PRs for dipenarathod/desktop-tutorial (skipping 18 already processed)
+2025-05-24 11:51:51,453 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/desktop-tutorial
+2025-05-24 11:51:51,453 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-24 11:51:51,454 - PRMetricsServer - INFO - Completed all repositories in 1.04 seconds
+2025-05-24 12:02:51,468 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-24 12:02:51,468 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-24 12:02:51,901 - PRMetricsServer - INFO - Processing all open PRs for dipenarathod/desktop-tutorial (skipping 18 already processed)
+2025-05-24 12:02:52,528 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/desktop-tutorial
+2025-05-24 12:02:52,530 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-24 12:02:52,530 - PRMetricsServer - INFO - Completed all repositories in 1.06 seconds
+2025-05-24 12:13:52,534 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-24 12:13:52,534 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-24 12:13:52,953 - PRMetricsServer - INFO - Processing all open PRs for dipenarathod/desktop-tutorial (skipping 18 already processed)
+2025-05-24 12:13:53,624 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/desktop-tutorial
+2025-05-24 12:13:53,625 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-24 12:13:53,625 - PRMetricsServer - INFO - Completed all repositories in 1.09 seconds
+2025-05-24 12:24:53,628 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-24 12:24:53,631 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-24 12:24:54,005 - PRMetricsServer - INFO - Processing all open PRs for dipenarathod/desktop-tutorial (skipping 18 already processed)
+2025-05-24 12:24:54,817 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/desktop-tutorial
+2025-05-24 12:24:54,818 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-24 12:24:54,818 - PRMetricsServer - INFO - Completed all repositories in 1.19 seconds
+2025-05-24 12:35:54,827 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-24 12:35:54,827 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-24 12:35:55,256 - PRMetricsServer - INFO - Processing all open PRs for dipenarathod/desktop-tutorial (skipping 18 already processed)
+2025-05-24 12:35:55,899 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/desktop-tutorial
+2025-05-24 12:35:55,899 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-24 12:35:55,900 - PRMetricsServer - INFO - Completed all repositories in 1.07 seconds
+2025-05-24 12:46:55,914 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-24 12:46:55,914 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-24 12:46:56,305 - PRMetricsServer - INFO - Processing all open PRs for dipenarathod/desktop-tutorial (skipping 18 already processed)
+2025-05-24 12:46:56,933 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/desktop-tutorial
+2025-05-24 12:46:56,933 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-24 12:46:56,934 - PRMetricsServer - INFO - Completed all repositories in 1.02 seconds
+2025-05-24 12:57:56,939 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-24 12:57:56,939 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-24 12:57:57,390 - PRMetricsServer - INFO - Processing all open PRs for dipenarathod/desktop-tutorial (skipping 18 already processed)
+2025-05-24 12:57:58,204 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/desktop-tutorial
+2025-05-24 12:57:58,205 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-24 12:57:58,205 - PRMetricsServer - INFO - Completed all repositories in 1.27 seconds
+2025-05-24 13:08:58,209 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-24 13:08:58,209 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-24 13:08:58,598 - PRMetricsServer - INFO - Processing all open PRs for dipenarathod/desktop-tutorial (skipping 18 already processed)
+2025-05-24 13:08:59,252 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/desktop-tutorial
+2025-05-24 13:08:59,253 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-24 13:08:59,253 - PRMetricsServer - INFO - Completed all repositories in 1.04 seconds
+2025-05-24 13:19:59,268 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-24 13:19:59,271 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-24 13:19:59,660 - PRMetricsServer - INFO - Processing all open PRs for dipenarathod/desktop-tutorial (skipping 18 already processed)
+2025-05-24 13:20:00,303 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/desktop-tutorial
+2025-05-24 13:20:00,304 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-24 13:20:00,304 - PRMetricsServer - INFO - Completed all repositories in 1.04 seconds
+2025-05-24 13:31:00,320 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-24 13:31:00,321 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/desktop-tutorial
+2025-05-24 13:31:00,735 - PRMetricsServer - INFO - Processing all open PRs for dipenarathod/desktop-tutorial (skipping 18 already processed)
+2025-05-24 13:31:01,362 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/desktop-tutorial
+2025-05-24 13:31:01,363 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-24 13:31:01,363 - PRMetricsServer - INFO - Completed all repositories in 1.04 seconds
+2025-05-24 16:33:41,118 - PRMetricsServer - INFO - Loaded previously processed PRs from processed_prs.json
+2025-05-24 16:33:41,118 - PRMetricsServer - INFO - Starting PR metrics server with 0.17 hour interval
+2025-05-24 16:33:41,118 - PRMetricsServer - INFO - Processing all open PRs for configured repositories
+2025-05-24 16:33:41,118 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-05-24 16:33:41,119 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/Metrics-Research_Python-Code-Files
+2025-05-24 16:33:41,503 - PRMetricsServer - INFO - Processing all open PRs for dipenarathod/Metrics-Research_Python-Code-Files (skipping 0 already processed)
+2025-05-24 16:33:42,078 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/Metrics-Research_Python-Code-Files
+2025-05-24 16:33:42,081 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-05-24 16:33:42,082 - PRMetricsServer - INFO - Completed all repositories in 0.96 seconds
+2025-06-02 13:11:08,700 - PRMetricsServer - INFO - Loaded previously processed PRs from processed_prs.json
+2025-06-02 13:11:08,717 - PRMetricsServer - INFO - Starting PR metrics server with 0.17 hour interval
+2025-06-02 13:11:08,717 - PRMetricsServer - INFO - Processing all open PRs for configured repositories
+2025-06-02 13:11:08,717 - PRMetricsServer - INFO - Starting PR metrics calculation for all repositories
+2025-06-02 13:11:08,718 - PRMetricsServer - INFO - Processing pull requests for repository: dipenarathod/Metrics-Research_Python-Code-Files
+2025-06-02 13:11:09,149 - PRMetricsServer - INFO - Processing all open PRs for dipenarathod/Metrics-Research_Python-Code-Files (skipping 0 already processed)
+2025-06-02 13:11:09,734 - PRMetricsServer - INFO - No new PRs to process for dipenarathod/Metrics-Research_Python-Code-Files
+2025-06-02 13:11:09,735 - PRMetricsServer - INFO - Configuration saved to pr_config.json
+2025-06-02 13:11:09,736 - PRMetricsServer - INFO - Completed all repositories in 1.02 seconds

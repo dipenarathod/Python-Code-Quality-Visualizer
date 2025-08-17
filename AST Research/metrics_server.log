@@ -1,0 +1,325 @@
+2025-05-18 12:29:28,500 - MetricsServer - INFO - Created default configuration file: config.json
+2025-05-18 12:34:24,320 - MetricsServer - INFO - Starting metrics server with 24 hour interval
+2025-05-18 12:34:24,321 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-18 12:34:24,322 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-18 12:34:24,737 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-18 12:34:30,278 - github.GithubRetry - INFO - Request PUT /repos/dipenarathod/desktop-tutorial/contents/Halstead_Metrics.json failed with 403: Forbidden
+2025-05-18 12:34:31,532 - github.GithubRetry - INFO - Request PUT /repos/dipenarathod/desktop-tutorial/contents/Traditional_Metrics.json failed with 403: Forbidden
+2025-05-18 12:34:32,785 - github.GithubRetry - INFO - Request PUT /repos/dipenarathod/desktop-tutorial/contents/OO_Metrics.json failed with 403: Forbidden
+2025-05-18 12:34:32,787 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-18 12:34:32,789 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-18 12:34:32,791 - MetricsServer - INFO - Completed all repositories in 8.47 seconds
+2025-05-18 13:20:29,343 - MetricsServer - INFO - Starting metrics server with 24 hour interval
+2025-05-18 13:20:29,343 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-18 13:20:29,344 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-18 13:20:29,732 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-18 13:22:53,387 - github.GithubRetry - INFO - Request PUT /repos/dipenarathod/desktop-tutorial/contents/Halstead_Metrics.json failed with 403: Forbidden
+2025-05-18 13:22:55,013 - github.GithubRetry - INFO - Request PUT /repos/dipenarathod/desktop-tutorial/contents/Traditional_Metrics.json failed with 403: Forbidden
+2025-05-18 13:22:56,284 - github.GithubRetry - INFO - Request PUT /repos/dipenarathod/desktop-tutorial/contents/OO_Metrics.json failed with 403: Forbidden
+2025-05-18 13:22:56,293 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-18 13:22:56,293 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-18 13:22:56,294 - MetricsServer - INFO - Completed all repositories in 146.95 seconds
+2025-05-18 13:30:54,834 - MetricsServer - INFO - Starting metrics server with 24 hour interval
+2025-05-18 13:30:54,835 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-18 13:30:54,836 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-18 13:30:55,315 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-18 13:31:04,700 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-18 13:31:04,701 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-18 13:31:04,702 - MetricsServer - INFO - Completed all repositories in 9.87 seconds
+2025-05-18 14:46:19,160 - MetricsServer - INFO - Starting metrics server with 24 hour interval
+2025-05-18 14:46:19,161 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-18 14:46:19,162 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-18 14:46:19,659 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-18 14:48:56,440 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-18 14:48:56,441 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-18 14:48:56,441 - MetricsServer - INFO - Completed all repositories in 157.28 seconds
+2025-05-18 15:01:42,351 - MetricsServer - INFO - Starting metrics server with 24 hour interval
+2025-05-18 15:01:42,352 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-18 15:01:42,353 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-18 15:01:42,734 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-18 15:02:10,299 - MetricsServer - ERROR - Error processing repository dipenarathod/desktop-tutorial: 'MetricsFileManager' object has no attribute 'save_local_metrics'
+2025-05-18 15:02:10,300 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-18 15:02:10,301 - MetricsServer - INFO - Completed all repositories in 27.95 seconds
+2025-05-18 15:08:47,251 - MetricsServer - INFO - Starting metrics server with 24 hour interval
+2025-05-18 15:08:47,252 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-18 15:08:47,252 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-18 15:08:47,687 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-18 15:09:22,567 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-18 15:09:22,568 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-18 15:09:22,569 - MetricsServer - INFO - Completed all repositories in 35.32 seconds
+2025-05-20 13:10:20,402 - MetricsServer - INFO - Starting metrics server with 24 hour interval
+2025-05-20 13:10:20,408 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-20 13:10:20,409 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-20 13:10:20,796 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-20 13:15:04,793 - MetricsServer - INFO - Starting metrics server with 24 hour interval
+2025-05-20 13:15:04,793 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-20 13:15:04,794 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-20 13:15:05,229 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-20 13:18:00,920 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-20 13:18:00,921 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-20 13:18:00,921 - MetricsServer - INFO - Completed all repositories in 176.13 seconds
+2025-05-20 13:21:10,255 - MetricsServer - INFO - Starting metrics server with 24 hour interval
+2025-05-20 13:21:10,256 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-20 13:21:10,256 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-20 13:21:10,735 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-20 13:21:58,275 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-20 13:21:58,277 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-20 13:21:58,277 - MetricsServer - INFO - Completed all repositories in 48.02 seconds
+2025-05-20 13:29:16,076 - MetricsServer - INFO - Starting metrics server with 24 hour interval
+2025-05-20 13:29:16,076 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-20 13:29:16,076 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-20 13:29:16,487 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-20 13:32:25,947 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-20 13:32:25,947 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-20 13:32:25,948 - MetricsServer - INFO - Completed all repositories in 189.87 seconds
+2025-05-21 11:46:36,939 - MetricsServer - INFO - Starting metrics server with 24 hour interval
+2025-05-21 11:46:36,940 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-21 11:46:36,940 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-21 11:46:37,370 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-21 11:47:18,395 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-21 11:47:18,395 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-21 11:47:18,396 - MetricsServer - INFO - Completed all repositories in 41.46 seconds
+2025-05-21 21:36:01,062 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-05-21 21:36:01,062 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-21 21:36:01,063 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-21 21:36:01,491 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-21 21:39:21,673 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-21 21:39:21,674 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-21 21:39:21,674 - MetricsServer - INFO - Completed all repositories in 200.61 seconds
+2025-05-21 21:46:21,677 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-21 21:46:21,677 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-21 21:46:22,105 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-21 21:47:06,229 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-21 21:47:06,230 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-21 21:47:06,230 - MetricsServer - INFO - Completed all repositories in 44.55 seconds
+2025-05-21 21:58:06,925 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-05-21 21:58:06,925 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-21 21:58:06,925 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-21 21:58:07,427 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-21 22:02:00,383 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-21 22:02:00,387 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-21 22:02:00,389 - MetricsServer - INFO - Completed all repositories in 233.46 seconds
+2025-05-22 16:13:00,127 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-05-22 16:13:00,136 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-22 16:13:00,137 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-22 16:13:00,607 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-22 16:13:20,726 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-22 16:13:20,727 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-22 16:13:20,727 - MetricsServer - INFO - Completed all repositories in 20.59 seconds
+2025-05-22 16:23:20,730 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-22 16:23:20,734 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-22 16:23:21,167 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-22 16:23:38,397 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-22 16:23:38,398 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-22 16:23:38,399 - MetricsServer - INFO - Completed all repositories in 17.67 seconds
+2025-05-22 16:31:00,256 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-05-22 16:31:00,256 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-22 16:31:00,257 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-22 16:31:00,753 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-22 16:35:12,213 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-22 16:35:12,214 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-22 16:35:12,214 - MetricsServer - INFO - Completed all repositories in 251.96 seconds
+2025-05-22 16:42:12,217 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-22 16:42:12,217 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-22 16:42:12,598 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-22 16:42:30,776 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-22 16:42:30,777 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-22 16:42:30,777 - MetricsServer - INFO - Completed all repositories in 18.56 seconds
+2025-05-22 16:53:30,781 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-22 16:53:30,782 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-22 16:53:31,207 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-22 16:53:48,755 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-22 16:53:48,756 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-22 16:53:48,756 - MetricsServer - INFO - Completed all repositories in 17.98 seconds
+2025-05-22 17:04:48,765 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-22 17:04:48,765 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-22 17:04:49,159 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-22 17:05:06,430 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-22 17:05:06,431 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-22 17:05:06,432 - MetricsServer - INFO - Completed all repositories in 17.67 seconds
+2025-05-22 17:11:53,191 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-05-22 17:11:53,191 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-22 17:11:53,192 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-22 17:11:53,593 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-22 17:12:11,092 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-22 17:12:11,094 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-22 17:12:11,094 - MetricsServer - INFO - Completed all repositories in 17.90 seconds
+2025-05-22 17:18:21,217 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-05-22 17:18:21,217 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-22 17:18:21,217 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-22 17:18:21,663 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-22 17:22:58,191 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-22 17:22:58,193 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-22 17:22:58,193 - MetricsServer - INFO - Completed all repositories in 276.98 seconds
+2025-05-22 17:28:58,209 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-22 17:28:58,210 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-22 17:28:58,631 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-22 17:29:17,034 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-22 17:29:17,035 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-22 17:29:17,036 - MetricsServer - INFO - Completed all repositories in 18.83 seconds
+2025-05-22 17:34:35,178 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-05-22 17:34:35,178 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-22 17:34:35,178 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-22 17:34:35,609 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-22 17:34:53,461 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-22 17:34:53,462 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-22 17:34:53,462 - MetricsServer - INFO - Completed all repositories in 18.28 seconds
+2025-05-22 17:37:06,594 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-05-22 17:37:06,594 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-22 17:37:06,595 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-22 17:37:12,255 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-05-22 17:37:12,255 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-22 17:37:12,256 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-22 17:37:12,712 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-22 17:37:31,039 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-22 17:37:31,040 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-22 17:37:31,040 - MetricsServer - INFO - Completed all repositories in 18.78 seconds
+2025-05-23 11:56:59,163 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-05-23 11:56:59,163 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-23 11:56:59,164 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-23 11:56:59,596 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-23 11:57:18,945 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-23 11:57:18,946 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-23 11:57:18,946 - MetricsServer - INFO - Completed all repositories in 19.78 seconds
+2025-05-23 12:05:31,601 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-05-23 12:05:31,601 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-23 12:05:31,602 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-23 12:05:31,978 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-23 12:10:18,281 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-23 12:10:18,283 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-23 12:10:18,283 - MetricsServer - INFO - Completed all repositories in 286.68 seconds
+2025-05-23 12:16:18,285 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-23 12:16:18,285 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-23 12:16:18,701 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-23 12:16:38,319 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-23 12:16:38,321 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-23 12:16:38,321 - MetricsServer - INFO - Completed all repositories in 20.04 seconds
+2025-05-23 12:27:38,338 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-23 12:27:38,338 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-23 12:27:38,762 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-23 12:27:57,310 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-23 12:27:57,311 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-23 12:27:57,312 - MetricsServer - INFO - Completed all repositories in 18.97 seconds
+2025-05-23 12:38:57,323 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-23 12:38:57,325 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-23 12:38:57,736 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-23 12:39:16,359 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-23 12:39:16,361 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-23 12:39:16,361 - MetricsServer - INFO - Completed all repositories in 19.04 seconds
+2025-05-23 12:49:55,748 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-05-23 12:49:55,749 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-23 12:49:55,749 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-23 12:49:56,147 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-23 12:50:15,502 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-23 12:50:15,503 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-23 12:50:15,504 - MetricsServer - INFO - Completed all repositories in 19.75 seconds
+2025-05-24 11:41:08,750 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-05-24 11:41:08,755 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-24 11:41:08,755 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-24 11:41:09,198 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-24 11:41:33,736 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-24 11:41:33,737 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-24 11:41:33,738 - MetricsServer - INFO - Completed all repositories in 24.98 seconds
+2025-05-24 11:51:33,742 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-24 11:51:33,742 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-24 11:51:34,113 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-24 11:51:52,350 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-24 11:51:52,351 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-24 11:51:52,351 - MetricsServer - INFO - Completed all repositories in 18.61 seconds
+2025-05-24 12:02:52,359 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-24 12:02:52,359 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-24 12:02:52,760 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-24 12:03:16,991 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-24 12:03:16,992 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-24 12:03:16,992 - MetricsServer - INFO - Completed all repositories in 24.63 seconds
+2025-05-24 12:14:16,996 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-24 12:14:17,000 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-24 12:14:17,385 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-24 12:14:37,803 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-24 12:14:37,804 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-24 12:14:37,805 - MetricsServer - INFO - Completed all repositories in 20.81 seconds
+2025-05-24 12:25:37,820 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-24 12:25:37,820 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-24 12:25:38,185 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-24 12:25:57,127 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-24 12:25:57,128 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-24 12:25:57,128 - MetricsServer - INFO - Completed all repositories in 19.31 seconds
+2025-05-24 12:36:57,132 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-24 12:36:57,132 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-24 12:36:57,518 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-24 12:37:16,040 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-24 12:37:16,042 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-24 12:37:16,042 - MetricsServer - INFO - Completed all repositories in 18.91 seconds
+2025-05-24 12:48:16,051 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-24 12:48:16,051 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-24 12:48:16,432 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-24 12:48:35,147 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-24 12:48:35,149 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-24 12:48:35,149 - MetricsServer - INFO - Completed all repositories in 19.10 seconds
+2025-05-24 12:59:35,152 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-24 12:59:35,153 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-24 12:59:35,523 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-24 12:59:54,792 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-24 12:59:54,794 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-24 12:59:54,794 - MetricsServer - INFO - Completed all repositories in 19.64 seconds
+2025-05-24 13:10:54,798 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-24 13:10:54,801 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-24 13:10:55,199 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-24 13:11:15,025 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-24 13:11:15,027 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-24 13:11:15,027 - MetricsServer - INFO - Completed all repositories in 20.23 seconds
+2025-05-24 13:22:15,035 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-24 13:22:15,037 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-24 13:22:15,412 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-24 13:22:34,134 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-24 13:22:34,135 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-24 13:22:34,136 - MetricsServer - INFO - Completed all repositories in 19.10 seconds
+2025-05-24 13:33:34,139 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-24 13:33:34,140 - MetricsServer - INFO - Processing repository: dipenarathod/desktop-tutorial
+2025-05-24 13:33:34,517 - MetricsServer - INFO - Processing branch: main in dipenarathod/desktop-tutorial
+2025-05-24 13:33:56,235 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/desktop-tutorial:main
+2025-05-24 13:33:56,237 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-24 13:33:56,237 - MetricsServer - INFO - Completed all repositories in 22.10 seconds
+2025-05-24 16:33:27,638 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-05-24 16:33:27,638 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-24 16:33:27,639 - MetricsServer - INFO - Processing repository: dipenarathod/Metrics-Research_Python-Code-Files
+2025-05-24 16:33:28,077 - MetricsServer - INFO - Processing branch: main in dipenarathod/Metrics-Research_Python-Code-Files
+2025-05-24 16:33:51,928 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/Metrics-Research_Python-Code-Files:main
+2025-05-24 16:33:51,929 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-24 16:33:51,929 - MetricsServer - INFO - Completed all repositories in 24.29 seconds
+2025-05-24 16:47:00,747 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-05-24 16:47:00,747 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-24 16:47:00,748 - MetricsServer - INFO - Processing repository: dipenarathod/Metrics-Research_Python-Code-Files
+2025-05-24 16:47:01,191 - MetricsServer - INFO - Processing branch: main in dipenarathod/Metrics-Research_Python-Code-Files
+2025-05-24 16:47:32,324 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/Metrics-Research_Python-Code-Files:main
+2025-05-24 16:47:32,325 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-24 16:47:32,325 - MetricsServer - INFO - Completed all repositories in 31.58 seconds
+2025-05-26 11:06:03,213 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-05-26 11:06:03,220 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-26 11:06:03,220 - MetricsServer - INFO - Processing repository: dipenarathod/Metrics-Research_Python-Code-Files
+2025-05-26 11:06:23,801 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-05-26 11:06:23,801 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-26 11:06:23,801 - MetricsServer - INFO - Processing repository: dipenarathod/Metrics-Research_Python-Code-Files
+2025-05-26 11:06:24,228 - MetricsServer - INFO - Processing branch: main in dipenarathod/Metrics-Research_Python-Code-Files
+2025-05-26 11:07:01,800 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/Metrics-Research_Python-Code-Files:main
+2025-05-26 11:07:01,803 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-26 11:07:01,805 - MetricsServer - INFO - Completed all repositories in 38.00 seconds
+2025-05-26 11:17:01,810 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-26 11:17:01,811 - MetricsServer - INFO - Processing repository: dipenarathod/Metrics-Research_Python-Code-Files
+2025-05-26 11:17:02,192 - MetricsServer - INFO - Processing branch: main in dipenarathod/Metrics-Research_Python-Code-Files
+2025-05-26 11:17:16,373 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/Metrics-Research_Python-Code-Files:main
+2025-05-26 11:17:16,374 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-26 11:17:16,374 - MetricsServer - INFO - Completed all repositories in 14.56 seconds
+2025-05-26 11:28:16,377 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-05-26 11:28:16,379 - MetricsServer - INFO - Processing repository: dipenarathod/Metrics-Research_Python-Code-Files
+2025-05-26 11:28:16,803 - MetricsServer - INFO - Processing branch: main in dipenarathod/Metrics-Research_Python-Code-Files
+2025-05-26 11:28:29,501 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/Metrics-Research_Python-Code-Files:main
+2025-05-26 11:28:29,502 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-05-26 11:28:29,503 - MetricsServer - INFO - Completed all repositories in 13.12 seconds
+2025-06-02 13:10:42,681 - MetricsServer - INFO - Starting metrics server with 0.17 hour interval
+2025-06-02 13:10:42,691 - MetricsServer - INFO - Starting metrics calculation for all repositories
+2025-06-02 13:10:42,691 - MetricsServer - INFO - Processing repository: dipenarathod/Metrics-Research_Python-Code-Files
+2025-06-02 13:10:43,140 - MetricsServer - INFO - Processing branch: main in dipenarathod/Metrics-Research_Python-Code-Files
+2025-06-02 13:11:36,311 - MetricsServer - INFO - Completed metrics calculation for dipenarathod/Metrics-Research_Python-Code-Files:main
+2025-06-02 13:11:36,312 - MetricsServer - INFO - Configuration saved to main_branch_metrics_server_config.json
+2025-06-02 13:11:36,312 - MetricsServer - INFO - Completed all repositories in 53.62 seconds

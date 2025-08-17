@@ -1,0 +1,272 @@
+{
+    "21": {
+        "pr_number": 21,
+        "pr_date": "2024-07-29T19:58:04+00:00",
+        "pr_title": "Pull 20",
+        "commit_sha": "3ef1aa22313844d25d7c4c8862229024efdf0aa6",
+        "files": {
+            "Test1.py": {
+                "LOC": 88,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 2.230769230769231
+            }
+        }
+    },
+    "20": {
+        "pr_number": 20,
+        "pr_date": "2024-07-29T17:51:16+00:00",
+        "pr_title": "Pull 19",
+        "commit_sha": "b8c7eba49f6910c1a51612be50b2e394541df884",
+        "files": {
+            "Test1.py": {
+                "LOC": 60,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 2.302325581395349
+            }
+        }
+    },
+    "19": {
+        "pr_number": 19,
+        "pr_date": "2024-07-29T17:45:36+00:00",
+        "pr_title": "Update Test1.py",
+        "commit_sha": "2d0106596529fe071a590da57e1ab994513555e0",
+        "files": {
+            "Test1.py": {
+                "LOC": 46,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 2.375
+            }
+        }
+    },
+    "18": {
+        "pr_number": 18,
+        "pr_date": "2024-07-29T15:06:05+00:00",
+        "pr_title": "Pull 15",
+        "commit_sha": "f8dae6601a2ec7e4325ab1826cae971aa79111b3",
+        "files": {
+            "Test1.py": {
+                "LOC": 69,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 3.8860759493670884
+            }
+        }
+    },
+    "17": {
+        "pr_number": 17,
+        "pr_date": "2024-07-26T12:46:45+00:00",
+        "pr_title": "Pull 14",
+        "commit_sha": "ba9c58e0342f10b2c57b98c9e0262e3880dd0e82",
+        "files": {
+            "Test1.py": {
+                "LOC": 58,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 3.7058823529411766
+            }
+        }
+    },
+    "16": {
+        "pr_number": 16,
+        "pr_date": "2024-07-26T12:03:08+00:00",
+        "pr_title": "Pull 13",
+        "commit_sha": "727b62479a2f7286c6ad72585de6126682449dc3",
+        "files": {
+            "Test1.py": {
+                "LOC": 46,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 3.4285714285714284
+            }
+        }
+    },
+    "15": {
+        "pr_number": 15,
+        "pr_date": "2024-07-26T10:59:46+00:00",
+        "pr_title": "Pull 12",
+        "commit_sha": "4b4f8e9ea320fcc0a2a8a545b32eacb4e7bf33ae",
+        "files": {
+            "Test1.py": {
+                "LOC": 40,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 3.24
+            }
+        }
+    },
+    "14": {
+        "pr_number": 14,
+        "pr_date": "2024-07-26T08:39:20+00:00",
+        "pr_title": "Update Test1.py",
+        "commit_sha": "e4c98b193792be3672f91fbd8392f1baaa8a6712",
+        "files": {
+            "Test1.py": {
+                "LOC": 34,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 3.0
+            }
+        }
+    },
+    "13": {
+        "pr_number": 13,
+        "pr_date": "2024-07-26T08:35:59+00:00",
+        "pr_title": "Update Test1.py",
+        "commit_sha": "be474db681b6f1c10f368d107902cd201da3e393",
+        "files": {
+            "Test1.py": {
+                "LOC": 30,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 2.8
+            }
+        }
+    },
+    "12": {
+        "pr_number": 12,
+        "pr_date": "2024-07-26T08:15:50+00:00",
+        "pr_title": "Update Test1.py",
+        "commit_sha": "64afbf07bdc256d92dc9b8677351a9a029acb68e",
+        "files": {
+            "Test1.py": {
+                "LOC": 30,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 2.8
+            }
+        }
+    },
+    "11": {
+        "pr_number": 11,
+        "pr_date": "2024-07-26T08:10:13+00:00",
+        "pr_title": "Update Test1.py",
+        "commit_sha": "812be7572cf5e45d16e9ac96589ce3727a148e66",
+        "files": {
+            "Test1.py": {
+                "LOC": 29,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 2.7435897435897436
+            }
+        }
+    },
+    "10": {
+        "pr_number": 10,
+        "pr_date": "2024-07-26T07:48:07+00:00",
+        "pr_title": "Pull8",
+        "commit_sha": "ac32bd302caa0db90293d5e6ab13338aa5d35b6d",
+        "files": {
+            "Test1.py": {
+                "LOC": 47,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 3.456140350877193
+            }
+        }
+    },
+    "9": {
+        "pr_number": 9,
+        "pr_date": "2024-07-26T07:24:46+00:00",
+        "pr_title": "Test1 pull7",
+        "commit_sha": "0558f03b3e1fe9ec9b458e11026b8aeecaf885a3",
+        "files": {
+            "Test1.py": {
+                "LOC": 46,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 3.4285714285714284
+            }
+        }
+    },
+    "8": {
+        "pr_number": 8,
+        "pr_date": "2024-07-26T07:07:43+00:00",
+        "pr_title": "Test1 pull6",
+        "commit_sha": "46d16aabf1e37b581abacaf25896675f314405f5",
+        "files": {
+            "Test1.py": {
+                "LOC": 44,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 3.3703703703703702
+            }
+        }
+    },
+    "7": {
+        "pr_number": 7,
+        "pr_date": "2024-07-26T07:01:47+00:00",
+        "pr_title": "Test1 pull4",
+        "commit_sha": "23a6016bc7a2d46716eeaf15cd40ad16c5c863ad",
+        "files": {
+            "Test1.py": {
+                "LOC": 42,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 3.3076923076923075
+            }
+        }
+    },
+    "6": {
+        "pr_number": 6,
+        "pr_date": "2024-07-26T06:57:15+00:00",
+        "pr_title": "Update Test1.py",
+        "commit_sha": "9de580228217701493498abd422e0ffec9dd311d",
+        "files": {
+            "Test1.py": {
+                "LOC": 38,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 3.1666666666666665
+            }
+        }
+    },
+    "5": {
+        "pr_number": 5,
+        "pr_date": "2024-07-23T16:54:58+00:00",
+        "pr_title": "Update Test1.py",
+        "commit_sha": "f946992a28f3dc045d031b49e31c75ba7fd916d1",
+        "files": {
+            "Test1.py": {
+                "LOC": 36,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 3.0869565217391304
+            }
+        }
+    },
+    "4": {
+        "pr_number": 4,
+        "pr_date": "2024-07-23T16:53:15+00:00",
+        "pr_title": "Update Test1.py",
+        "commit_sha": "1ea4b33c022cc0903e7e1a6f16ec7349b085ced3",
+        "files": {
+            "Test1.py": {
+                "LOC": 29,
+                "Fan in": {},
+                "Fan out": {},
+                "CC": {},
+                "Length of Identifier": 2.7435897435897436
+            }
+        }
+    }
+}

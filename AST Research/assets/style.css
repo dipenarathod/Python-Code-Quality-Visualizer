@@ -1,0 +1,58 @@
+#traditional-plot-container{
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 30px auto;
+}
+#halstead-plot-container{
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 30px auto;
+}
+
+#halstead-file-metric-select{
+    width: 50%;
+    color: rgb(255, 255, 255);
+    margin: 30px auto;
+}
+
+#traditional-file-metric-select{
+    width: 50%;
+    color: rgb(255, 255, 255);
+    margin: 30px auto;
+}
+
+.dropdown-select{
+    margin: 15px auto;
+}
+
+/* Background color for the dropdown menu itself */
+/* Background color for the dropdown menu itself */
+.dropdown-select .Select-control {
+    background-color: #3a3a3a !important;
+    color: rgb(255, 255, 255) !important; /* Lighten the text color */
+}
+
+/* Background color for the selected item in multi-select dropdown */
+.dropdown-select .Select-value {
+    background-color: #3a3a3a !important;
+    color: rgb(255, 255, 255) !important; /* Ensure the text is white */
+}
+
+/* Background color for the selected item in single-select dropdown */
+.dropdown-select .Select-value-label {
+    color: rgb(255, 255, 255) !important; /* Ensure text is white */
+}
+
+/* Background color for the dropdown items */
+.dropdown-select .Select-menu-outer {
+    background-color: #3a3a3a !important;
+    color: #fff !important; /* Ensure the text color is white */
+}
+
+/* Adjust the color of the text inside the dropdown items */
+.dropdown-select .Select-option {
+    color: rgb(255, 255, 255) !important; /* Ensure the text is white */
+}
+
+
+
